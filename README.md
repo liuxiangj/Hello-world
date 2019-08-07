@@ -1,3 +1,3 @@
 # Hello-world
 Just a repository
-freshman comes
+here comes the freshman
